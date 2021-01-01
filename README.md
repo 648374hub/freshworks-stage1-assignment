@@ -9,7 +9,9 @@ Operations performed-
 3. Delete Data file
 
 How to run the python file ?
+
 Windows- python3 main.py username <operation> key value(optional) TTL
+
 Linux- ./main username <operation> key value(optional) TTL(optional) 
   
 Requirements- Python3.6 >=, Json module, time module
